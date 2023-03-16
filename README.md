@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelalimourtafiaa&show_icons=true&theme=radical&locale=en" alt="abdelalimourtafiaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelalimourtafiaa&" alt="abdelalimourtafiaa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelalimourtafiaa&theme=radical&locale=en" alt="abdelalimourtafiaa" /></p>
