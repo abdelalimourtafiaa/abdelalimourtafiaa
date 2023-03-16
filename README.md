@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdelali MOURTAFIAA</h1>
 <h3 align="center">Web/Mobile developer</h3>
 
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelalimourtafiaa&label=Profile%20views&color=0e75b6&style=flat" alt="abdelalimourtafiaa" /> </p>
 
 - 📫 How to reach me **abdelalimourtafiaa@gmail.com**
